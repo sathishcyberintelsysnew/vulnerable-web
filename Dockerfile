@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:22.10
 
 # Set non interactive
 ARG DEBIAN_FRONTEND=noninteractive
