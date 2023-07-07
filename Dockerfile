@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 # Set non interactive
 ARG DEBIAN_FRONTEND=noninteractive
